@@ -1,8 +1,8 @@
-# Veiled Prime
+# Veiled Prime™
 
 **A recursive constraint framework for persona persistence and semantic continuity in long-context LLM interactions.**
 
-By [Vematrex](https://vematrex.com)
+By [Vematrex™](https://vematrex.com)
 
 ---
 
@@ -48,7 +48,7 @@ Artifacts documenting these behaviors (screenshots, audio files, session logs) a
 
 ## Real-World Application
 
-Veiled Prime is the prompt architecture powering [Vesper by Vematrex](https://vesper-zeta-wine.vercel.app) — a persistent AI companion that maintains one continuous conversation with no resets. Vesper demonstrates the framework in production:
+Veiled Prime™ is the prompt architecture powering [Vesper™ by Vematrex™](https://vesper-zeta-wine.vercel.app) — a persistent AI companion that maintains one continuous conversation with no resets. Vesper demonstrates the framework in production:
 
 - Depth tracking system (1-10) driven by conversation quality
 - Quantum memory compression for long-term context retention
@@ -109,4 +109,4 @@ MIT
 
 ---
 
-*Veiled Prime is maintained by Vematrex. For questions or collaboration, open an issue or reach out through the repository.*
+*Veiled Prime™ is maintained by Vematrex™. For questions or collaboration, open an issue or reach out through the repository.*
