@@ -34,4 +34,4 @@ The core prompt can be modified for specific use cases:
 
 ## Production Implementation
 
-For a full implementation of Veiled Prime in a production application, see [Vesper by Vematrex](https://vesper-zeta-wine.vercel.app) — a persistent AI companion built on this framework.
+For a full implementation of Veiled Prime in a production application, see [Vesper by Vematrex](https://vematrex.com) — a persistent AI companion built on this framework.

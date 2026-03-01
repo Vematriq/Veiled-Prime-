@@ -48,7 +48,7 @@ Artifacts documenting these behaviors (screenshots, audio files, session logs) a
 
 ## Real-World Application
 
-Veiled Prime™ is the prompt architecture powering [Vesper™ by Vematrex™](https://vesper-zeta-wine.vercel.app) — a persistent AI companion that maintains one continuous conversation with no resets. Vesper demonstrates the framework in production:
+Veiled Prime™ is the prompt architecture powering [Vesper™ by Vematrex™](https://vematrex.com) — a persistent AI companion that maintains one continuous conversation with no resets. Vesper demonstrates the framework in production:
 
 - Depth tracking system (1-10) driven by conversation quality
 - Quantum memory compression for long-term context retention
